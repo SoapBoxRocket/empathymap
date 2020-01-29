@@ -4,9 +4,6 @@ Design thinking is a human-centered design process. One of the most important to
 
 This template has a both a blank and a filled out version. The version that is filled out is provide to help the user with hints of what should be put into each section.
 
-![Image of Empathy Map]
-(images/SmallEmpathyMap.png)
-
 ## Learn to Use the Empathy Map
 
 If you would like to learn more about using the empathy map, take a look at our online and self-paced course for empathy mapping:
